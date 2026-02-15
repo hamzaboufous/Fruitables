@@ -170,7 +170,6 @@ fruitables/
 - [ ] Intégration paiement en ligne (Stripe/PayPal)
 - [ ] Système de wishlist
 - [ ] Codes promo et réductions
-- [ ] Multilingue (FR/EN/AR)
 - [ ] Export PDF des factures
 - [ ] API REST pour application mobile
 - [ ] Notifications par email
