@@ -1,6 +1,6 @@
 
 
-# 🍎 Fruitables - E-commerce de Produits Bio
+#  Fruitables - E-commerce de Produits Bio
 
 [![Laravel](https://img.shields.io/badge/Laravel-11.x-red.svg)](https://laravel.com)
 [![PHP](https://img.shields.io/badge/PHP-8.2+-blue.svg)](https://php.net)
