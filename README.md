@@ -6,7 +6,7 @@
 [![PHP](https://img.shields.io/badge/PHP-8.2+-blue.svg)](https://php.net)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-Fruitables est une plateforme e-commerce moderne et complète dédiée à la vente de produits biologiques (fruits, légumes, produits laitiers, viandes, etc.). Développée avec Laravel 11, elle offre une expérience utilisateur fluide et un dashboard administrateur complet.
+Fruitables est une plateforme e-commerce moderne et complète dédiée à la vente de produits biologiques (fruits, légumes, produits laitiers, viandes, etc.). Développée avec Laravel 12, elle offre une expérience utilisateur fluide et un dashboard administrateur complet.
 
 ## ✨ Fonctionnalités Principales
 
@@ -180,6 +180,7 @@ fruitables/
 <img width="1366" height="794" alt="image" src="https://github.com/user-attachments/assets/73ac4d06-6a47-4bb9-b174-90bf9669fa00" />
 <img width="1366" height="617" alt="image" src="https://github.com/user-attachments/assets/4664c353-15d0-4e10-9398-b4b3ba9a8b36" />
 
+
 ]
 
 ## 🤝 Contribution
@@ -191,14 +192,12 @@ Les contributions sont les bienvenues! N'hésitez pas à:
 4. Push vers la branche (`git push origin feature/AmazingFeature`)
 5. Ouvrir une Pull Request
 
-## 📝 License
 
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 ## 👤 Auteur
 
 **Hamza Boufous**
-- GitHub: [@hamzaboufous](https://github.com/hamzaboufous)
+- Linkedin: [@hamzaboufous](https://www.linkedin.com/in/hamza-boufous-758416391/)
 - Email: hamzaboufous731@gmail.com
 
 ## 🙏 Remerciements
@@ -207,10 +206,10 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 - Bootstrap pour le framework CSS
 - Font Awesome pour les icônes
 
----
+
 
 ⭐ Si ce projet vous a aidé, n'hésitez pas à lui donner une étoile!
-=======
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
